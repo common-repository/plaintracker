@@ -1,0 +1,8 @@
+#pw2, #pw2 td { color: #000; }
+#pw2 nav a, #pw2 button { padding: 0 .75rem; text-decoration: inherit; }
+#pw2 nav b > a { font-weight: inherit; }
+#pw2 tbody td, #pw2 summary_, #pw2 nav details_:not([open]) { background-color: #f9f9f9; }
+#pw2 nav summary_ { background-color: inherit; }
+#pw2 .pw-sticky { background-color: #f1f1f1; }
+#pw2 th { color: #000; }
+#pw2 form section + section { margin-top: .5rem; }
